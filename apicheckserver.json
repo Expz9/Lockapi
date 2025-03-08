@@ -1,6 +1,6 @@
 [
     {
         "ServerName": "House",
-        "IpServer": "192.168.191.75"
+        "IpServer": "127.0.0.1"
     }    
 ]
